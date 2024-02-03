@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📫 How to reach me **stellan.lindrud@gmail.com**<br>✨Been writing bad code since 2015<br>🎯: Get into ANU Advanced Computing (Research and Development)</p>
+<p align="left">📫 How to reach me stellan.lindrud@gmail.com<br>✨Been writing bad code since 2015<br>🎯: Get into ANU Advanced Computing (Research and Development)</p>
 
 ###
 
