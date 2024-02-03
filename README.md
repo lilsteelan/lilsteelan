@@ -46,7 +46,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/embed/cVPcABKys8dHy)"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://64.media.tumblr.com/45bdd5c0ed6514988932ad91e5c63e4a/tumblr_mjuus0jGlF1qfbz1so1_500.gifv)"  />
 
 ###
 
