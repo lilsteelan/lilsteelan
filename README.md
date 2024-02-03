@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📫 How to reach me stellan.lindrud@gmail.com<br>✨Been writing bad code since 2015<br>🎯: Get into ANU Advanced Computing (Research and Development)</p>
+<p align="left">📫 How to reach me **stellan.lindrud@gmail.com**<br>✨Been writing bad code since 2015<br>🎯: Get into ANU Advanced Computing (Research and Development)</p>
 
 ###
 
@@ -36,22 +36,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
 </div>
 
-
-
-
-
 ###
 
 <div align="left">
-  <a href="mailto:stellan.lindrud@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="discord.com/users/id/881820196107587625" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  
-  
+  <a href="discord.com/users/id/881820196107587625" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="stellan.lindrud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22emmqoy5j7a4ias7ky225wfy)
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/lilsteelan/lilsteelan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="0" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
