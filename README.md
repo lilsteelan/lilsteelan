@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Stellan and I'm a year 12 stident, from Narrabundah College</h2>
 
 ###
 
