@@ -13,12 +13,20 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilsteelan&show_icons=true&locale=en&layout=compact" alt="lilsteelan" /></p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<img src="https://raw.githubusercontent.com/lilsteelan/lilsteelan/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://open.spotify.com/user/Stellan">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Stellan&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
