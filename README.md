@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Stellan, an Australian year 12 student</h2>
+<h2 align="left">Hi 👋! My name is Stellan, a student at ANU</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📫 How to reach me stellan.lindrud@gmail.com<br>✨Been writing bad code since 2017<br>🎯: Get into ANU Advanced Computing (Research and Development)</p>
+<p align="left">📫 How to reach me stellan.lindrud@gmail.com<br>✨<br>🎯: Get into ANU Advanced Computing (Research and Development)</p>
 
 ###
 
